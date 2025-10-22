@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanya+Hubatenko!;" />
 </h1>
-# 💫 About Me:
+💫 About Me:
 A passionate software developer from the UK<br><br>🔭 I’m currently studying Computer Science at University of York<br><br>🌱 I’m currently learning JavaScript, Python, Java<br><br>⚡ Fun fact:  Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
 
