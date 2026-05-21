@@ -20,10 +20,10 @@ A passionate software developer from the UK<br><br>🔭 I’m currently studying
 
 ![snake gif](https://github.com/tanya-hubatenko/tanya-hubatenko/blob/output/github-snake-dark.svg)
 
-# 📊 GitHub Stats:
+ <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanya-hubatenko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tanya-hubatenko&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-hubatenko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-hubatenko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
